@@ -66,19 +66,19 @@ node index.js
 ---
 ## 🔗 Live Demo
 
-- UI Live Link: [View Application](https://your-deployed-ui-link.com)
+- UI Live Link: [View Application](https://glam-on-go-beauty-services-mern-app.netlify.app/)
 
 ---
 
 ## 🔗 Frontend Repository
 
-- Frontend GitHub: [Beauty-Services-MERN-Client](https://github.com/yourusername/Beauty-Services-MERN-Client)
+- Frontend GitHub: [Beauty-Services-MERN-Client](https://github.com/nandhinigurumoorthyy/Beauty-Services-MERN-Client)
 
 ---
 
 ## 🙋‍♀️ Author
 
-[@nandhinigurumoorthy](https://github.com/nandhinigurumoorthy)
+[@nandhinigurumoorthy](https://github.com/nandhinigurumoorthyy)
 
 ---
 
