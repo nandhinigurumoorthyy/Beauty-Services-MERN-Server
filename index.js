@@ -21,6 +21,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "http://0.0.0.0:10000",
+      "https://glam-on-go-beauty-services-mern-app.netlify.app/"
     ],
     methods: ["POST", "GET", "DELETE", "PUT"],
     credentials: true,
