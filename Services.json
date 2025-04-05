@@ -1,0 +1,884 @@
+[
+    {
+        "id": 1,
+        "name": "Bridal Makeup",
+        "title_card_img": "/assets/services/bride-makeup.jpg",
+        "brand": [
+            "MAC Cosmetics",
+            "Lakmé Salon",
+            "Bobbi Brown"
+        ],
+        "things_to_know": [
+            "A makeup trial is recommended before the wedding.",
+            "Ensure proper skin hydration before the makeup session.",
+            "Long-lasting makeup products are used for full-day coverage."
+        ],
+        "time": "4hr",
+        "overview": [
+            {
+                "img": "/assets/services/salon_like_experience.png"
+            },
+            {
+                "img": "/assets/services/brightened_skin.png"
+            },
+            {
+                "img": "/assets/services/branded_products.png"
+            }
+        ],
+        "description": "Flawless bridal makeup using premium products for your big day.",
+        "priceRange": 65000,
+        "rating": 4.8,
+        "photos": [
+            "https://i.pinimg.com/564x/41/6c/a3/416ca3117a8c4545560b5f0b177916cb.jpg",
+            "https://www.k4fashion.com/wp-content/uploads/2021/11/south-indian-bridal-makeup-ideas-2.jpg",
+            "https://w0.peakpx.com/wallpaper/244/378/HD-wallpaper-brides-who-rocked-south-indian-makeup.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHf1LvB84PsOQ2ja2jhdoMhlabBwP5DouPdG47sjF8fy3b8wdTL5lfM1j2K4X9FljG9s0&usqp=CAU"
+        ],
+        "hoursOfOperation": {
+            "Monday-Sunday": "5:00 AM - 9:00 PM"
+        },
+        "services_included": {
+            "Bridal Makeup": [
+                "HD & Airbrush Makeup",
+                "Customized Eye Makeup Look",
+                "Long-Lasting Waterproof Makeup",
+                "Jewelry Setting & Bindi Application",
+                "Dewy & Matte Finish Options"
+              ],
+            "Hair Styling": [
+                "Traditional Bun with Gajra",
+                "South Indian Braid Styling",
+                "Loose Curls & Open Hair Look",
+                "Messy Bun & Modern Styles"
+            ],
+            "Saree-Draping": [
+                "Traditional South Indian Draping",
+                "Bengali Style Draping",
+                "Lehenga Style Saree Draping",
+                "Gujarati & Marathi Saree Draping"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Pre-Bridal Makeup",
+        "title_card_img": "/assets/services/prebridal-makeup.jpg",
+        "brand": [
+            "VLCC",
+            "Naturals Salon",
+            "Bridal Glow"
+        ],
+        "things_to_know": [
+            "Includes skincare treatments to prep the skin for the wedding.",
+            "Facial and exfoliation sessions are included.",
+            "Makeup trials can be scheduled in advance."
+        ],
+        "time": "3.5hr",
+        "overview": [
+            {
+                "img": "/assets/services/salon_like_experience.png"
+            },
+            {
+                "img": "/assets/services/brightened_skin.png"
+            },
+            {
+                "img": "/assets/services/branded_products.png"
+            }
+        ],
+        "description": "Comprehensive pre-bridal makeup and skincare treatments.",
+        "priceRange": 20500,
+        "rating": 4.6,
+        "photos": [
+            "https://queensinstyle.com/assets/images/blogs/IMG_9396.jpg",
+            "https://www.bodycraft.co.in/wp-content/uploads/makeup-process-wedding-day-scaled.jpg",
+            "https://static.toiimg.com/thumb/msid-91467108,width-400,resizemode-4/91467108.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPG5xIiJk9-Gp4THcsFoN_ADkE7sWV9xAoQ&s"
+        ],
+        "hoursOfOperation": {
+            "Monday-Sunday": "5:00 AM - 7:00 PM"
+        },
+        "services_included": {
+            "Hair Styling": [
+                "Traditional Bun with Gajra",
+                "South Indian Braid Styling",
+                "Loose Curls & Open Hair Look",
+                "Messy Bun & Modern Styles",
+                "Hair Straightening & Volumizing"
+            ],
+            "Saree-Draping": [
+                "Traditional South Indian Draping",
+                "Bengali Style Draping",
+                "Lehenga Style Saree Draping",
+                "Gujarati & Marathi Saree Draping",
+                "Modern Fusion Draping"
+            ],
+            "Pre-Bridal Care": [
+                "Deep Cleansing Facials",
+                "Detanning & Brightening Treatments",
+                "Hair Spa & Nourishing Masks",
+                "Body Polishing & Scrubs",
+                "Hand & Foot Spa Services"
+              ]            
+        }
+    },
+    {
+        "id": 3,
+        "name": "Facial",
+        "title_card_img": "/assets/services/facial.jpg",
+        "brand": [
+            "VLCC",
+            "Lotus Professional",
+            "The Body Shop"
+        ],
+        "things_to_know": [
+            "Facials help in deep cleansing and skin hydration.",
+            "Avoid using makeup immediately after a facial.",
+            "Regular facials improve skin health and glow."
+        ],
+        "time": "1.5hr",
+        "overview": [
+            {
+                "img": "/assets/services/brightened_skin.png"
+            },
+            {
+                "img": "/assets/services/experienced_stylists.png"
+            },
+            {
+                "img": "/assets/services/hygienic_andd_mess_free.png"
+            }
+        ],
+        "description": "Relaxing facials for glowing and healthy skin.",
+        "priceRange": 2500,
+        "rating": 4.7,
+        "photos": [
+            "https://media.istockphoto.com/id/1399469980/photo/close-up-portrait-of-anorganic-facial-mask-application-at-spa-salon-facial-treatment-skin.jpg?s=612x612&w=0&k=20&c=ZvZi_bdGLicsykUtlrHgQe70ftZzd_xPKvq2vzfOyV0=",
+            "https://images.herzindagi.info/image/2022/Apr/gold-facial-cost-procedure-how-to-do.jpg",
+            "https://sashaclinics.com/wp-content/uploads/2024/08/different-kinds-of-facial-treatments-you-must-know-az-wilson-aesthetics.jpg",
+            "https://media.allure.com/photos/5c2e8ec54325fe2d62c0943a/1:1/w_1999,h_1999,c_limit/how-often-should-you-get-a-facial-lede.jpg"
+        ],
+        "hoursOfOperation": {
+            "Monday-Sunday": "10:00 AM - 9:00 PM"
+        },
+        "services_included": {
+            "Facial Treatments": [
+                "Gold Facial",
+                "Diamond Facial",
+                "Hydrating & Oxygen Facial",
+                "Anti-Aging Treatments",
+                "Acne Control & Sensitive Skin Care"
+              ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "Mehendi",
+        "title_card_img": "/assets/services/bridal-mehendi.jpg",
+        "brand": [
+            "GetLook Professional",
+            "Mehendi by Neha",
+            "Bridal Henna Art"
+        ],
+        "things_to_know": [
+            "Apply mehendi at least 24 hours before an event for the best color.",
+            "Avoid washing hands immediately after application for a deep stain.",
+            "Use a lemon-sugar mixture to enhance the color."
+        ],
+        "time": "3hr",
+        "overview": [
+            {
+                "img": "/assets/services/experienced_stylists.png"
+            },
+            {
+                "img": "/assets/services/equipped_and_well_informed.png"
+            },
+            {
+                "img": "/assets/services/salon_like_experience.png"
+            }
+        ],
+        "description": "Traditional and modern mehendi designs for weddings and special occasions.",
+        "priceRange": 3500,
+        "rating": 4.7,
+        "photos": [
+            "https://www.fabfunda.com/blog/wp-content/uploads/2023/10/Bridal-Jaali-mehendi-designs-For-wedding-630x840.jpg",
+            "https://asset7.ckassets.com/thegoodlookbook/wp-content/uploads/sites/2/2019/04/1-1.jpg",
+            "https://cdn.shopify.com/s/files/1/0155/8131/files/2_WeddingBazaar_480x480.png?v=1703223775",
+            "https://www.wedabout.com/blog/wp-content/uploads/2020/12/Back-Hand-Elaborate-Diamond-Mehendi-819x1024.jpg"
+        ],
+        "hoursOfOperation": {
+            "Monday-Sunday": "10:00 AM - 8:00 PM"
+        },
+        "services_included": {
+            "Mehendi Designs": [
+                "Bridal Full Hand Mehendi",
+                "Arabic Mehendi Patterns",
+                "Rajasthani & Traditional Designs",
+                "Minimalistic Mehendi Art",
+                "Customized Name & Theme Designs"
+              ]
+            }
+        },
+    {
+        "id": 5,
+        "name": "Hydra Facial",
+        "title_card_img": "/assets/services/Hydra.jpg",
+        "brand": [
+            "DermaGlow",
+            "Clinique",
+            "SkinLab"
+        ],
+        "things_to_know": [
+            "Hydra facial deeply cleanses and hydrates the skin.",
+            "Mild redness may occur after the treatment but fades quickly.",
+            "Recommended every 4-6 weeks for best results."
+        ],
+        "time": "2hr",
+        "overview": [
+            {
+                "img": "/assets/services/brightened_skin.png"
+            },
+            {
+                "img": "/assets/services/uniform_application.png"
+            },
+            {
+                "img": "/assets/services/hygienic_andd_mess_free.png"
+            }
+        ],
+        "description": "Advanced hydra facial for deep hydration and glowing skin.",
+        "priceRange": 5000,
+        "rating": 4.9,
+        "photos": [
+            "https://veinandcosmetics.com/wp-content/uploads/2020/11/5-steps-of-a-hydrafacial-800x800.jpg",
+            "https://cdn11.bigcommerce.com/s-a9x0p25f9x/images/stencil/1280x1280/products/210/593/HydraFacial__20277.1637120482.jpg?c=2",
+            "https://b1839162.smushcdn.com/1839162/wp-content/uploads/2024/07/hydrafacial-men.jpg?lossy=1&strip=1&webp=1",
+            "https://www.usdermatologypartners.com/wp-content/uploads/2018/06/HydraFacail-for-Men.jpg"
+        ],
+        "hoursOfOperation": {
+            "Monday-Sunday": "10:00 AM - 7:00 PM"
+        },
+      "services_included": {
+  "Cleansing": [
+    "Deep Pore Cleansing",
+    "Oil & Dirt Removal",
+    "Hydrating Cleanser Application"
+  ],
+  "Exfoliation": [
+    "Gentle Microdermabrasion",
+    "Mild Chemical Peel",
+    "Dead Skin Cell Removal"
+  ],
+  "Soothing Finishing Touch": [
+    "Cooling Mask & Moisturizer",
+    "SPF Protection Application",
+    "Skin Repair & Glow Enhancement"
+  ]
+}
+    },
+    {
+        "id": 6,
+        "name": "Male Hair Services",
+        "title_card_img": "/assets/services/male-hair-cut.jpg",
+        "brand": [
+            "Ustraa",
+            "Beardo",
+            "L'Oréal Men"
+        ],
+        "things_to_know": [
+            "Regular trims help maintain a neat and stylish look.",
+            "Use sulfate-free shampoo for healthier hair.",
+            "Scalp massages improve blood circulation and hair growth."
+        ],
+        "time": "2hr",
+        "overview": [
+            {
+                "img": "/assets/services/full_coverage.png"
+            },
+            {
+                "img": "/assets/services/nourished_hair.png"
+            },
+            {
+                "img": "/assets/services/equipped_and_well_informed.png"
+            }
+        ],
+        "description": "Professional haircuts, styling, and scalp treatments for men.",
+        "priceRange": 8000,
+        "rating": 4.5,
+        "photos": [
+            "https://graftonbarbers.com/wp-content/uploads/2022/11/hair_school-2-1024x684.webp",
+            "https://www.myrahspa.com/images/ServiceImages/service-659e3ec0df6a21704869568.jpg",
+            "https://naomisheadmasters.com/wp-content/uploads/2023/10/Top-10-Salons-In-India.jpg",
+            "https://static.wixstatic.com/media/11062b_b0d33dc276d440aa93eba654c3bbd005~mv2.jpeg/v1/fill/w_640,h_440,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_b0d33dc276d440aa93eba654c3bbd005~mv2.jpeg"
+        ],
+        "hoursOfOperation": {
+            "Monday-Sunday": "10:00 AM - 9:00 PM"
+        },
+        "services_included": {
+              "Hair Treatments": [
+                "Keratin & Smoothening",
+                "Scalp Detox & Dandruff Treatment",
+                "Hair Spa & Nourishing Masks",
+                "Coloring & Highlights",
+                "Olaplex & Protein Treatments"
+              ],
+              "Male Haircut": [
+                "Consultation for Desired Hairstyle",
+                "Hair Wash & Scalp Cleansing",
+                "Precision Haircut with Professional Tools",
+                "Beard Trimming & Styling (if required)",
+                "Final Styling with Hair Products",
+                "Blow Dry & Finishing Touch"
+            ]}
+
+    },
+    {
+        "id": 7,
+        "name": "Pedicure",
+        "title_card_img": "/assets/services/pedicure.jpg",
+        "brand": [
+            "O3+",
+            "VLCC",
+            "Lotus"
+        ],
+        "things_to_know": [
+            "Removes dead skin and calluses for softer feet.",
+            "Soaking feet in warm water relaxes muscles.",
+            "Regular pedicures promote healthy toenails."
+        ],
+        "time": "1hr",
+        "overview": [
+            {
+                "img": "/assets/services/branded_products.png"
+            },
+            {
+                "img": "/assets/services/salon_like_experience.png"
+            },
+            {
+                "img": "/assets/services/hygienic_andd_mess_free.png"
+            }
+        ],
+        "description": "Relaxing pedicure for soft and healthy feet.",
+        "priceRange": 2500,
+        "rating": 4.7,
+        "photos": [
+            "https://cfimg.wowcher.co.uk/cdn-cgi/image/height=487,width=727,quality=85,format=auto/https://static.wowcher.co.uk/images/deal/36454890/1434448.jpg",
+            "https://purespauk.com/cdn/shop/products/pure-essential-gel-pedicure-50-min.png?v=1660047443",
+            "https://www.coolaromaspa.com/wp-content/uploads/2018/12/pedicure-for-men-dubai.jpg",
+            "https://www.tiege.com/cdn/shop/articles/aerial-view-filing-mans-nails.jpg?v=1560299521"
+        ],
+        "hoursOfOperation": {
+            "Monday-Sunday": "10:00 AM - 8:00 PM"
+        },
+        "services_included": {
+            "Pedicure": [
+                "Warm Water Soak with Essential Oils",
+                "Exfoliation & Dead Skin Removal",
+                "Cuticle Cleaning & Nail Shaping",
+                "Foot Massage & Moisturizing",
+                "Nail Polish Application or Buffing",
+                "Callus Treatment (if needed)"
+              ]
+        }
+    },
+    {
+        "id": 8,
+        "name": "Male Grooming",
+        "title_card_img": "/assets/services/male-grooming.jpg",
+        "brand": [
+            "GetLook Professional",
+            "Park Avenue",
+            "Denver",
+            "Beardo "
+        ],
+        "things_to_know": [
+            "Maintain proper hygiene by keeping your tools clean and sanitized.",
+            "Use a good-quality moisturizer to keep your skin hydrated.",
+            "Trim and shape your beard to maintain a neat appearance."
+        ],
+        "time": "2hr",
+        "overview": [
+            {
+                "img": "/assets/services/nourished_hair.png"
+            },
+            {
+                "img": "/assets/services/experienced_stylists.png"
+            },
+            {
+                "img": "/assets/services/uniform_application.png"
+            }
+        ],
+        "description": "Male grooming is the self-care and styling routine for men to look and feel their best.",
+        "priceRange": 55000,
+        "rating": 4.5,
+        "photos": [
+            "https://deax38zvkau9d.cloudfront.net/prod/assets/images/uploads/services/1667549841mens-grooming-at-home.webp?f=webp&w=768",
+            "https://s3-ap-southeast-1.amazonaws.com/urbanclap-prod/images/supply/customer-app-supply/1660114287412-b24bcf.jpeg",
+            "https://www.misiuacademy.com/wp-content/uploads/2018/12/grooming-tips-1.jpg",
+            "https://franchiseindia.s3.ap-south-1.amazonaws.com/uploads/content/fi/art/5b3dbe9aba1e3.jpg"
+        ],
+        "hoursOfOperation": {
+            "Monday-Friday": "10:00 AM - 10:00 PM",
+            "Saturday-Sunday": "9:00 AM - 6:00 PM"
+        },
+        "services_included": {
+        "Groom Makeup": [
+            "Skin Tone Correction & Base",
+            "Beard Grooming & Styling",
+            "Under Eye & Blemish Concealing",
+            "Minimalistic & Natural Look",
+            "Matte Finish for Oil Control"
+          ]}
+    },
+    {
+        "id": 9,
+        "name": "Female Hair Services",
+        "title_card_img": "/assets/services/women-hair-care.jpg",
+        "brand": [
+            "L'Oréal Professional",
+            "Toni & Guy",
+            "Schwarzkopf",
+            "Wella Professionals"
+        ],
+        "things_to_know": [
+            "Regular trims help maintain healthy hair and prevent split ends.",
+            "Deep conditioning treatments restore moisture and shine.",
+            "Heat protection sprays are recommended before using styling tools."
+        ],
+        "time": "1.5hr",
+        "overview": [
+            {
+                "img": "/assets/services/nourished_hair.png"
+            },
+            {
+                "img": "/assets/services/full_coverage.png"
+            },
+            {
+                "img": "/assets/services/equipped_and_well_informed.png"
+            }
+        ],
+        "description": "Professional haircuts, coloring, and treatments for women.",
+        "priceRange": 12000,
+        "rating": 4.7,
+        "photos": [
+            "https://media.vyaparify.com/vcards/services/16071/female-haircut.png",
+            "https://static.independent.co.uk/2024/05/13/14/newFile-4.jpg",
+            "https://media.istockphoto.com/id/1138252732/photo/woman-at-hair-salon.jpg?s=612x612&w=0&k=20&c=Yr5fxSZHi_FecnpMGx5xoj9ldLsuxsSUyHYy3I7sSSY=",
+            "https://bestlocalthings.com/media-library/va-hair-salons.jpg?id=52091851&width=1245&height=700&quality=90&coordinates=0%2C37%2C0%2C38"
+        ],
+        "hoursOfOperation": {
+            "Monday-Friday": "10:00 AM - 10:00 PM",
+            "Saturday-Sunday": "9:00 AM - 7:00 PM"
+        },
+        "services_included": {
+            "Hair Styling": [
+                "Traditional Bun with Gajra",
+                "Loose Curls & Open Hair Look",
+                "Messy Bun & Modern Styles",
+                "Hair Straightening & Volumizing"
+              ],
+              "Hair Treatments": [
+                "Keratin & Smoothening",
+                "Scalp Detox & Dandruff Treatment",
+                "Hair Spa & Nourishing Masks",
+                "Coloring & Highlights",
+                "Olaplex & Protein Treatments"
+              ],
+              "Female Haircut": [
+                "Personalized Hairstyle Consultation",
+                "Hair Wash & Conditioning Treatment",
+                "Layering, Feathering, or Blunt Cut Options",
+                "Blow Dry & Styling with Professional Tools",
+                "Final Touch with Hair Serum or Spray"
+            ]
+        }
+    },
+    {         
+        "id": 10,
+        "name": "Male Spa",
+        "title_card_img": "/assets/services/male-spa.png",
+        "brand": [
+            "Forest Essentials",
+            "Aroma Magic",
+            "VLCC",
+            "O3+"
+        ],
+        "things_to_know": [
+            "Spa treatments help in stress relief and relaxation.",
+            "Aromatherapy massages improve circulation and reduce muscle tension.",
+            "Deep tissue massage is beneficial for athletes and active individuals."
+        ],
+        "time": "1.5hr - 4hr",
+        "overview": [
+            {
+                "img": "/assets/services/branded_products.png"
+            },
+            {
+                "img": "/assets/services/hygienic_andd_mess_free.png"
+            },
+            {
+                "img": "/assets/services/experienced_stylists.png"
+            }
+        ],
+        "description": "Relaxing and rejuvenating spa treatments designed for men.",
+        "priceRange": 7000,
+        "rating": 4.6,
+        "photos": [
+            "https://t3.ftcdn.net/jpg/02/16/10/38/360_F_216103860_6p5ulMbGcbHmD9PiO8aeGZB4yDq6L47H.jpg",
+            "https://media.istockphoto.com/id/1066506450/photo/young-man-enjoying-on-a-massage-treatment-at-the-spa.jpg?s=612x612&w=0&k=20&c=x44fW1OUR9GCGTboqc5QcO78uN9eo8oZ2u03p1Xs1As=",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGzw2wWw-yWf_vF2kMaAFF4rQdUjb8AjsWBA&s",
+            "https://swisswellness.com.au/wp-content/uploads/2024/07/mens-massage-swisswellness-1080x675.png"
+        ],
+        "hoursOfOperation": {
+            "Monday-Friday": "10:00 AM - 10:00 PM",
+            "Saturday-Sunday": "9:00 AM - 8:00 PM"
+        },
+        "services_included": {
+        "Spa Packages": [
+            "Bridal Spa & Glow Package",
+            "Pre-Wedding Pampering Sessions",
+            "Luxury Hair & Skin Rejuvenation",
+            "Signature Relaxation Treatments",
+            "Couple Spa & Wellness Packages"
+          ],
+          "Body Massage": [
+            "Aromatherapy & Relaxation Massage",
+            "Deep Tissue & Swedish Massage",
+            "Hot Stone Therapy",
+            "Full Body Detox & Scrub",
+            "Head, Neck & Shoulder Massage"
+          ]
+        }
+    },
+    {
+        "id": 11,
+        "name": "Female Spa",
+        "title_card_img": "/assets/services/female-spa.jpg",
+        "brand": [
+            "Kaya Skin Clinic",
+            "VLCC",
+            "The Body Shop",
+            "Forest Essentials"
+        ],
+        "things_to_know": [
+            "Facial spa treatments help in deep cleansing and skin hydration.",
+            "Hot stone therapy improves blood circulation and relaxation.",
+            "Herbal body wraps detoxify the skin and enhance glow."
+        ],
+        "time": "1.5hr - 2.5hr",
+        "overview": [
+            {
+                "img": "/assets/services/branded_products.png"
+            },
+            {
+                "img": "/assets/services/hygienic_andd_mess_free.png"
+            },
+            {
+                "img": "/assets/services/experienced_stylists.png"
+            }
+        ],
+        "description": "Luxury spa treatments designed for relaxation and skincare for women.",
+        "priceRange": 8000,
+        "rating": 4.8,
+        "photos": [
+            "https://st2.depositphotos.com/1004713/7082/i/450/depositphotos_70822719-stock-photo-asian-woman-in-the-spa.jpg",
+            "https://img.freepik.com/free-photo/woman-having-spa-treatment_1098-1313.jpg",
+            "https://static.vecteezy.com/system/resources/previews/027/003/351/non_2x/beautiful-girl-in-spa-salon-free-photo.jpg",
+            "https://content3.jdmagicbox.com/v2/comp/surat/s4/0261px261.x261.211109181233.n9s4/catalogue/only-ladies-spa-yogi-chowk-surat-massage-centres-for-women-7o33x1iz7v.jpg"
+        ],
+        "hoursOfOperation": {
+            "Monday-Friday": "10:00 AM - 9:00 PM",
+            "Saturday-Sunday": "9:00 AM - 8:00 PM"
+        },
+        "services_included": {
+        "Spa Packages": [
+            "Bridal Spa & Glow Package",
+            "Pre-Wedding Pampering Sessions",
+            "Luxury Hair & Skin Rejuvenation",
+            "Signature Relaxation Treatments",
+            "Couple Spa & Wellness Packages"
+          ],
+          "Body Massage": [
+            "Aromatherapy & Relaxation Massage",
+            "Deep Tissue & Swedish Massage",
+            "Hot Stone Therapy",
+            "Full Body Detox & Scrub",
+            "Head, Neck & Shoulder Massage"
+          ]
+        }
+    },
+    {
+        "id": 12,
+        "name": "Waxing Services",
+        "title_card_img": "/assets/services/wax.png",
+        "brand": [
+            "Rica",
+            "Veet",
+            "Sleek",
+            "The Body Care"
+        ],
+        "things_to_know": [
+            "Exfoliate your skin a day before waxing for better results.",
+            "Avoid direct sun exposure after waxing to prevent irritation.",
+            "Do not apply lotions or oils before waxing for better hair removal."
+        ],
+        "time": "30min - 1hr",
+        "overview": [
+            {
+                "img": "/assets/services/Compelete_waxing_kit.png"
+            },
+            {
+                "img": "/assets/services/equipped_and_well_informed.png"
+            },
+            {
+                "img": "/assets/services/uniform_application.png"
+            }
+        ],
+        "description": "Smooth and hair-free skin with professional waxing services.",
+        "priceRange": 4000,
+        "rating": 4.7,
+        "photos": [
+            "https://images.squarespace-cdn.com/content/v1/54768b20e4b0084bff720244/1549401699895-UFHBMVH3IRD2ELPA9VP9/thebrowstudio-minneapolis-body-waxing-hair-removal.jpg?format=1500w",
+            "https://www.bodycraft.co.in/wp-content/uploads/waxing.png",
+            "https://sumansalon.in/wp-content/uploads/2024/02/adobestock-230088894-scaled.jpeg",
+            "https://media.istockphoto.com/id/1262600694/photo/man-getting-waxing-hair-removal-at-the-salon.jpg?s=612x612&w=0&k=20&c=SEj-p-HnYWzDP5ilR5jXZjZzGuCjRBygKDXHidrZ1TM="
+        ],
+        "hoursOfOperation": {
+            "Monday-Friday": "10:00 AM - 9:00 PM",
+            "Saturday-Sunday": "9:00 AM - 8:00 PM"
+        },
+        "services_included": {
+            "Waxing Services": [
+                "Full Body Waxing",
+                "Brazilian & Bikini Wax",
+                "Chocolate & Rica Wax",
+                "Underarm & Leg Waxing",
+                "Eyebrow & Face Waxing"
+              ]
+        }
+    },
+    {
+        "id": 13,
+        "name": "Bleaching Services",
+        "title_card_img": "/assets/services/bleaching.JPG",
+        "brand": [
+            "OxyGlow",
+            "VLCC",
+            "Nature’s Essence",
+            "Lotus Herbals"
+        ],
+        "things_to_know": [
+            "A patch test is recommended before applying bleach to check for skin sensitivity.",
+            "Avoid sun exposure for at least 24 hours after bleaching.",
+            "Do not apply bleach on cuts, wounds, or irritated skin."
+        ],
+        "time": "30min - 45min",
+        "overview": [
+            {
+                "img": "/assets/services/brightened_skin.png"
+            },
+            {
+                "img": "/assets/services/salon_like_experience.png"
+            },
+            {
+                "img": "/assets/services/uniform_application.png"
+            }
+        ],
+        "description": "Brighten and even out your skin tone with professional bleaching treatments.",
+        "priceRange": 4500,
+        "rating": 4.6,
+        "photos": [
+            "https://5.imimg.com/data5/CE/YR/GN/SELLER-53837923/face-bleaching-services-500x500.jpg",
+            "https://zenspa.orderz.in/uploads/stores/2961/23c58951-607d-4a84-b2d6-5752b8c521d7_original.jpg",
+            "https://www.newyorkplasticsurgeryallure.com/wp-content/uploads/2024/10/skin-bleaching-manhattan-scaled.webp",
+            "https://www.tradekeyindia.com/Pimages/Men-Bleaching.jpg"
+        ],
+        "hoursOfOperation": {
+            "Monday-Friday": "10:00 AM - 9:00 PM",
+            "Saturday-Sunday": "9:00 AM - 8:00 PM"
+        },
+        "services_included": {
+  "Face Bleaching": [
+    "Cleansing to Remove Dirt & Oil",
+    "Patch Test for Skin Sensitivity",
+    "Application of Bleach Cream & Activator",
+    "Even Spreading for Uniform Lightening",
+    "Relaxation Time for Product Absorption",
+    "Gentle Removal & Cooling Gel Application",
+    "Post-Bleach Moisturization"
+  ],
+  "Body Bleaching": [
+    "Exfoliation to Remove Dead Skin",
+    "Customized Bleach Application",
+    "Special Attention to Darker Areas (Elbows, Knees, Neck)",
+    "Relaxation & Waiting Time",
+    "Removal with Soothing Aloe Gel",
+    "Skin Hydration & SPF Protection"
+  ]
+}
+    },
+    {
+        "id": 14,
+        "name": "Threading & Eyebrow Services",
+        "title_card_img": "/assets/services/threading.png",
+        "brand": [
+            "Lakmé Salon",
+            "VLCC",
+            "Naturals",
+            "Green Trends"
+        ],
+        "things_to_know": [
+            "Threading is a natural hair removal method with minimal irritation.",
+            "Avoid applying makeup immediately after threading to prevent irritation.",
+            "Regular threading helps maintain a defined eyebrow shape."
+        ],
+        "time": "10min - 30min",
+        "overview": [
+            {
+                "img": "/assets/services/nourished_hair.png"
+            },
+            {
+                "img": "/assets/services/uniform_application.png"
+            },
+            {
+                "img": "/assets/services/Compelete_waxing_kit.png"
+            }
+        ],
+        "description": "Precision threading services for perfectly shaped eyebrows and smooth skin.",
+        "priceRange": 2000,
+        "rating": 4.8,
+        "photos": [
+            "https://assets.clevelandclinic.org/transform/b6bc2556-713a-4f9a-854a-8fbcc51d979e/eyebrow-Threading-1136205399-770x533-1_jpg",
+            "https://img1.wsimg.com/isteam/ip/5ffc288c-56d7-48ef-9c93-d404d933d9be/Eyebrow%2BMicroblading.jpeg/:/rs=w:814,h:407,cg:true,m/cr=w:814,h:407",
+            "https://www.barewaxspa.com/wp-content/uploads/2023/01/0bf629da99822892493b99943c18adddb6-14-Benefit-brow-wax.rsquare.w700.webp",
+            "https://www.fiestaservices.co.in/cdn/shop/files/EyebrowsThreading.png?v=1716534702"
+        ],
+        "hoursOfOperation": {
+            "Monday-Friday": "10:00 AM - 9:00 PM",
+            "Saturday-Sunday": "9:00 AM - 8:00 PM"
+        },
+        "services_included": {
+  "Eyebrow Threading": [
+    "Consultation for Desired Brow Shape",
+    "Trimming & Tweezing for Perfect Finish",
+    "Soothing Gel Application to Reduce Redness",
+    "Post-Threading Brow Styling"
+  ],
+  "Facial Threading": [
+    "Chin & Sideburns Hair Removal",
+    "Forehead & Jawline Threading",
+    "Aloe Vera Gel Application for Soothing Effect"
+  ],
+  "Waxing Services": [
+    "Chocolate & Rica Wax Options",
+    "Full Face Waxing for Smooth Skin",
+    "Arm & Leg Waxing (Half/Full)",
+    "Underarm & Back Waxing"
+  ]
+}
+    },
+    {
+        "id": 15,
+        "name": "Detox & Skin Rejuvenation Services",
+        "title_card_img": "/assets/services/detox.jpg",
+        "brand": [
+            "VLCC",
+            "Kaya Skin Clinic",
+            "O3+",
+            "Forest Essentials"
+        ],
+        "things_to_know": [
+            "Drink plenty of water before and after treatment to enhance results.",
+            "Avoid direct sun exposure for at least 24 hours post-treatment.",
+            "A patch test is recommended for sensitive skin types."
+        ],
+        "time": "1hr - 2hr",
+        "overview": [
+            {
+                "img": "/assets/services/brightened_skin.png"
+            },
+            {
+                "img": "/assets/services/salon_like_experience.png"
+            },
+            {
+                "img": "/assets/services/uniform_application.png"
+            }
+        ],
+        "description": "Revitalize and detoxify your skin with professional skin rejuvenation treatments.",
+        "priceRange": 8000,
+        "rating": 4.7,
+        "photos": [
+            "https://handandstone.com/wp-content/uploads/2023/01/Facial_Enhancements-800x1000.jpg",
+            "https://regenesisspa.com/wp-content/uploads/2024/04/3uEYYDdS4JEP-Pico-Laser-Carbon-Facial-Intro.jpeg.webp",
+            "https://img.nivea.com/-/media/nivea/local/in/micellar-water-benefits/how-to-use-micellar-water-content-brief---nivea-in---fbcw1sep-header-option-2.jpg?rx=0&ry=76&rw=1379&rh=765&hash=33547347AAF0AECF555CBC73F4AF9929",
+            "https://assets.foreo.com/files/static/styles/mysa_9_4/public/images/skin-detox.png?itok=XEZ2HAiN"
+        ],
+        "hoursOfOperation": {
+            "Monday-Friday": "10:00 AM - 9:00 PM",
+            "Saturday-Sunday": "9:00 AM - 8:00 PM"
+        },
+        "services_included": {
+  "Detox Treatments": [
+    "Charcoal Detox Facial",
+    "Green Tea & Vitamin C Infusion",
+    "Oxygen Therapy for Skin Revitalization",
+    "Lymphatic Drainage Massage",
+    "Hydrogel Mask for Skin Brightening"
+  ],
+  "Skin Rejuvenation": [
+    "Collagen Boosting Treatments",
+    "Gold & Diamond Facial for Glow",
+    "Chemical Peels for Skin Renewal",
+    "LED Light Therapy for Skin Repair",
+    "Microdermabrasion for Deep Exfoliation"
+  ]
+}
+    },
+    {
+        "id": 16,
+        "name": "Manicure",
+        "title_card_img": "/assets/services/manicure.jpg",
+        "brand": [
+            "O3+",
+            "VLCC",
+            "Lotus"
+        ],
+        "things_to_know": [
+            "Helps in maintaining healthy nails and cuticles.",
+            "Regular manicures improve hand hydration and softness.",
+            "Soaking hands in warm water relaxes muscles and promotes blood circulation."
+        ],
+        "time": "2hr",
+        "overview": [
+            {
+                "img": "/assets/services/branded_products.png"
+            },
+            {
+                "img": "/assets/services/salon_like_experience.png"
+            },
+            {
+                "img": "/assets/services/hygienic_andd_mess_free.png"
+            }
+        ],
+        "description": "A relaxing manicure for healthy and well-groomed nails.",
+        "priceRange": 2000,
+        "rating": 4.8,
+        "photos": [
+            "https://static.vecteezy.com/system/resources/thumbnails/012/649/604/small_2x/woman-hands-with-manicure-holding-flower-free-photo.jpg",
+            "https://goodspaguide--live.s3.amazonaws.com/_1200x630_crop_center-center_82_none/manicures_2023-12-11-163023_pbgb.jpg?mtime=1702312223",
+            "https://thumbs.dreamstime.com/b/nail-spa-procedure-manicure-pedicure-female-hands-feet-pink-background-top-view-result-salon-97450263.jpg",
+            "https://static.wixstatic.com/media/c9f2ef_c1cbaa86bcee4da985c423e300f92721~mv2.jpg/v1/fill/w_610,h_360,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/c9f2ef_c1cbaa86bcee4da985c423e300f92721~mv2.jpg"
+        ],
+        "hoursOfOperation": {
+            "Monday-Sunday": "10:00 AM - 8:00 PM"
+        },
+        "services_included": {
+            "Manicure": [
+                "Warm Water Soak with Essential Oils",
+                "Exfoliation & Dead Skin Removal",
+                "Cuticle Cleaning & Nail Shaping",
+                "Hand Massage & Moisturizing",
+                "Nail Polish Application or Buffing",
+                "Paraffin Wax Treatment (if needed)"
+            ]
+        }
+    }
+    
+]
