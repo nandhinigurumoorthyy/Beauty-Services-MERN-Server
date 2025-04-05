@@ -61,6 +61,8 @@ JWT_SECRET=your_jwt_secret_key
 node index.js
 ```
 
+> ℹ️ The backend is deployed using **Render**.
+
 ---
 ## 🔗 Live Demo
 
