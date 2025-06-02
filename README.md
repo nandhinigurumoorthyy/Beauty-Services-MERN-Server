@@ -67,7 +67,9 @@ node index.js
 ## 🔗 Live Demo
 
 - UI Live Link: [View Application](https://glam-on-go-beauty-services-mern-app.netlify.app/)
-
+  
+- [Backend API](https://beauty-services-mern-server.onrender.com)
+  
 ---
 
 ## 🔗 Frontend Repository
